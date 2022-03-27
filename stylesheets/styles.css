@@ -1,0 +1,40 @@
+.home-heading {
+    color: yellow;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+
+.index-body a {
+    color: yellow;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+
+.index-body {
+    background-color: black;
+    text-align: center;
+    background-image: url("/home/kyrie/Odin_Project/repos/odin-recipes/img/food-background-1.jpg");
+    background-size: auto;
+}
+
+.french-toast-body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.guacamole-body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.meatloaf-body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
